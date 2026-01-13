@@ -1,1 +1,1 @@
-# achiments
+# achievements
